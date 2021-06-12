@@ -1,3 +1,4 @@
+如果你要下载，直接下载源码就好。
 本人只是一个菜鸟。小时候看战争片喜欢那个滴滴答答的声音。对摩斯密码有兴趣。
 从一开始这个代码就是使用中文当交互语言。英文版本是根据中文版本使用谷歌翻译做成，不知道会不会弄出问题。
 exe文件时使用pyinstaller打包的，我的系统时Windows10，亲测Windows7无法使用，如果你无法使用exe文件，请下载python，通过运行源码的方式，你可以玩到鄙人做的这个小玩意儿
@@ -9,7 +10,7 @@ https://www.bilibili.com/video/BV1Cy4y167jj
 通过点击鼠标的方式模拟敲击发报器，如果点击鼠标的时候卡顿，那可能360的锅，因为有一天我把360卸载了换成火绒，在那之后就很流畅了
 
 
-
+If you want to download, just download the source code directly.
 I am just a rookie. When I was young, I liked the ticking sound when watching war movies. Interested in Morse code.
 From the beginning, this code uses Chinese as the interactive language. The English version is based on the Chinese version using Google Translate. I don’t know if it will cause problems.
 The exe file is packaged using pyinstaller. My system is Windows 10, and Windows 7 cannot be used in my personal test. If you can’t use the exe file, please download python. By running the source code, you can play this gadget that I made
