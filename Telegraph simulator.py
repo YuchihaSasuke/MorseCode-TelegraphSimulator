@@ -616,7 +616,7 @@ if __name__=="__main__":
                                 if xuanze7==0:
                                     xuanze7='1'
                                 if xuanze7=='1':
-                                    pygame.mixer.music.load(r'.\德国W48电话.wav')
+                                    pygame.mixer.music.load(r'.\W48.wav')
                                     pygame.mixer.music.play(-1)
                                 break
                             time.sleep(1)
