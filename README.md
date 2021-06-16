@@ -1,4 +1,4 @@
-如果你要下载，直接下载源码就好。
+如果你要下载，直接下载源码就好[建议下载中文版，因为我比较懒，可能英文版没有和中文版]
 @@@@@@
 ===对于第一个功能，我希望它是智能的，我做了一点我自认为的优化，但愿这能够更好的控制"字母与字母"和"单词与单词"之间的间距。我希望它能应对不规则间距，就像：
 “我爱上了一个女孩。 她叫李思琪。”
@@ -24,7 +24,7 @@ https://www.bilibili.com/video/BV1Cy4y167jj
 通过点击鼠标的方式模拟敲击发报器，如果点击鼠标的时候卡顿，那可能360的锅，因为有一天我把360卸载了换成火绒，在那之后就很流畅了
 
 ======================================================================================================================================================
-If you want to download, just download the source code directly.
+If you want to download, just download the source code directly.[It is recommended to download the Chinese version, because I am lazy, maybe the English version is not synchronized with the Chinese version]
 @@@@@@
 ===For the first function, I hope it is smart. I have made a little optimization that I think. I hope it can better control the spacing between "letters and letters" and "words and words". I hope it can cope with irregular spacing, like: 
 “我爱上了一个女孩。 她叫李思琪。”
